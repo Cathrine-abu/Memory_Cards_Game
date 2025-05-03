@@ -12,12 +12,6 @@
 #define MAX_OBJECT_NAME 7              // Maximum length of each object's name
 #define MAX_PLAYER_NAME 20             // Maximum length of each player's name
 
-/************************
- * Cathrine Abu-Elazam
- * 325516193
- * ex_4 - Memory Card Game
- ************************/
-
 /**
  * Splits a single string of player names (delimited by '#') into individual names.
  * @param strNamePlayers: Input string containing all names separated by '#'
