@@ -8,12 +8,6 @@
 #define MAX_OBJECT_NAME 7
 #define MAX_PLAYER_NAME 20
 
-/************************
- * Cathrine Abu-Elazam
- * 325516193
- * ex_4
- ************************/
-
 // function that split the name of the players
 int splitPlayerName (char* strNamePlayers, char players[MAX_PLAYERS][MAX_PLAYER_NAME])// m=number of players
 {
