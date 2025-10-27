@@ -55,6 +55,7 @@ Alice#Bob → Player names separated by #
 Dog ... Tree → 8 unique objects (each appears twice)
 
 0 1 2 ... 15 → Card positions mapped into pairs
+
 ---
 
 ```bash
